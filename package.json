@@ -1,0 +1,15 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:luftedar/test-practice.git",
+  "author": "luftedar <ugurorcun91@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  },
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  }
+}
